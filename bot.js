@@ -27,4 +27,4 @@ client.user.setGame(`!bc |mahmod AR |server`,"http://twitch.tv/Death Shop")
 client.user.setStatus("dnd")
 });
 
-client.login(NjYxMjE5NTk3OTI3NTc5NjQ5.XgoP6A.VdJ_VH13gdKChXXBfShyzQl-VYI);
+client.login('NjYxMjE5NTk3OTI3NTc5NjQ5.XgoaFA.A6MlW84nXe3hbUPh9Ko49ZfCudk');
